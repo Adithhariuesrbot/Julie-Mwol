@@ -21,7 +21,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         BGM_off = 'bgm option turned off'
     }
     if (config.LANG == 'ML') {
-        l_dsc = 'bgm ഓണാക്കുക അല്ലെങ്കിൽ ഓഫ് ചെയ്യുക. -ബോട്ട് ഉടമ കമാൻഡ്'        
+        l_dsc = 'bgm ഓണാക്കുക അല്ലെങ്കിൽ ഓഫ് ചെയ്യുക. -Adithhariകമാൻഡ്'        
         BGM_on = 'bgm ഓപ്ഷൻ ഓണാക്കി'
         BGM_off = 'bgm ഓപ്ഷൻ ഓഫാക്കി'
     }
